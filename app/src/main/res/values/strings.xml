@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome to Shoe Store App !</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="email_edit">Enter Your Email Address</string>
+    <string name="password_edit">Enter Your Password</string>
+    <string name="add_item_button">Add Item</string>
+    <string name="welcome_paragragh">This applications is designed to show a list of shoes</string>
+    <string name="instructions">How to use this App:\n 1.Scroll to show the list of items\n 2.You can add a new item by clicking button ِAdd Item\n 3.Insert required data of new item and then click Save\n 4.The new item will be shown is list screen\n 5.You can click Cancel and the new item will not be saved</string>
+    <string name="logout">Log Out</string>
+    <string name="shoe_detail_header">Fill in required data about new item</string>
+    <string name="name">Name</string>
+    <string name="size">Size</string>
+    <string name="company">Company</string>
+    <string name="discription">Discription</string>
+    <string name="images">Images</string>
+
+
+</resources>
